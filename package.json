@@ -1,5 +1,24 @@
 {
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "name": "typescript-the-complete-developers-guide-exercises",
+  "description": "A Typescript playground to follow along with the Typescript: The Complete Developer's Guide course on Udemy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophiebeard/typescript-the-complete-developers-guide-exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sophiebeard/typescript-the-complete-developers-guide-exercises/issues"
+  },
+  "homepage": "https://github.com/sophiebeard/typescript-the-complete-developers-guide-exercises#readme"
 }
