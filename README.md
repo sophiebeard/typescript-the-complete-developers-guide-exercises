@@ -36,3 +36,13 @@ ts-node index.ts
 ```
 combines these two commands into one.
 Interfaces in typescript are used to define the structure of an object. The goal of Typescript is to catch errors during development. 
+
+## Map Project
+- A user and company will be randomly generated with their location, this will then be shown on a map. 
+- FakerJS is used to generate random names and locations. 
+
+### To Run
+```
+npx parcel index.html
+```
+Creates a server running at http://localhost:1234. Load this in the browser to see the application. 

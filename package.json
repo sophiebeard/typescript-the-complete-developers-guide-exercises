@@ -1,12 +1,17 @@
 {
   "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/faker": "^6.6.9",
+    "@types/google.maps": "^3.51.1",
     "axios": "^0.27.2"
   },
   "name": "typescript-the-complete-developers-guide-exercises",
   "description": "A Typescript playground to follow along with the Typescript: The Complete Developer's Guide course on Udemy",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,0 +1,155 @@
+154
+126C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\package.json133203240613731372 0
+101C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 1133203251791624570 1
+109C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\package-lock.json133203240616746241 0
+99C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\.vscode133204230820740886 1
+131C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\form-data\lib\form_data.js133203240613991402 0
+101C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 5133205117978497754 1
+145C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\normalizeHeaderName.js133203240615469141 0
+104C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules133203245066841208 1
+129C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\delayed-stream\Readme.md133203240614073221 0
+101C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 3133204245817750305 1
+118C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\form-data\lib133203240614095800 1
+104C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\package.json133203244398815316 0
+101C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 2133203437877783105 1
+127C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\form-data\package.json133203240614252284 0
+112C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-db133203240614398538 1
+101C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\README.md133203255228075753 0
+101C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 4133205113149243580 1
+125C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-db\package.json133203240614267409 0
+101C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 6133205127709963261 1
+101C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 7133205140250053295 1
+121C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\follow-redirects133203240614252284 1
+101C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 8133208450734530604 1
+112C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 8\classes.ts133208460773959473 0
+115C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 7\interfaces.ts133208447429765050 0
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\stream.js133203240614189697 0
+111C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 6\tuples.ts133205132340445987 0
+129C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\form-data\lib\browser.js133203240613921399 0
+111C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 5\arrays.ts133205124752383290 0
+136C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib\readable_serial.js133203240614711439 0
+114C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 4\functions.ts133205113101676310 0
+112C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 4\objects.ts133205117356909951 0
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\delayed-stream\lib133203240614149762 1
+114C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 3\variables.ts133204242137948910 0
+128C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-types\package.json133203240613901457 0
+121C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\LICENSE133203240613901457 0
+124C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-types\index.js133203240613831408 0
+110C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 2\types.ts133203440286904951 0
+110C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 1\index.js133203247217348232 0
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\follow-redirects\https.js133203240613941454 0
+110C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\Section 1\index.ts133203257971752186 0
+118C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\env133203240616346992 1
+113C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit133203240614458743 1
+110C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios133203240616547437 1
+131C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\follow-redirects\README.md133203240614297861 0
+120C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\combined-stream133203240614063006 1
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\follow-redirects\index.js133203240614105833 0
+119C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\delayed-stream133203240614105833 1
+142C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\deprecatedMethod.js133203240615026190 0
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-types\LICENSE133203240613751441 0
+114C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\form-data133203240614368273 1
+115C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-types133203240614095800 1
+138C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\cancel\CanceledError.js133203240614856200 0
+120C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-db\db.json133203240614215512 0
+128C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\delayed-stream\Makefile133203240613931437 0
+126C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-types\HISTORY.md133203240613971378 0
+139C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\defaults\env\FormData.js133203240615099379 0
+125C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-types\README.md133203240614119478 0
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-db\HISTORY.md133203240614368273 0
+128C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\form-data\README.md.bak133203240613841420 0
+121C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-db\index.js133203240613801395 0
+120C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-db\LICENSE133203240613721123 0
+129C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\follow-redirects\LICENSE133203240613761343 0
+125C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\form-data\index.d.ts133203240614418453 0
+122C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\mime-db\README.md133203240614418453 0
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\delayed-stream\.npmignore133203240613801395 0
+122C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\form-data\License133203240613751441 0
+124C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\form-data\Readme.md133203240614327858 0
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\form-data\lib\populate.js133203240614119478 0
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\follow-redirects\debug.js133203240613841420 0
+129C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\core\settle.js133203240615578962 0
+129C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\follow-redirects\http.js133203240613901457 0
+134C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\follow-redirects\package.json133203240614215512 0
+127C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\delayed-stream\License133203240613881425 0
+131C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib\terminator.js133203240614836290 0
+132C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\delayed-stream\package.json133203240613721123 0
+141C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\delayed-stream\lib\delayed_stream.js133203240614189697 0
+124C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\combined-stream\lib133203240614095800 1
+128C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\combined-stream\License133203240613841420 0
+133C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\combined-stream\package.json133203240613731372 0
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\combined-stream\Readme.md133203240613911378 0
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\combined-stream\yarn.lock133203240613961377 0
+143C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\combined-stream\lib\combined_stream.js133203240614105833 0
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\CHANGELOG.md133203240616260284 0
+115C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\dist133203240616080249 1
+121C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\index.d.ts133203240616567282 0
+119C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\index.js133203240615225442 0
+114C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib133203240615745940 1
+118C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\LICENSE133203240614105833 0
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\package.json133203240615890138 0
+120C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\README.md133203240616433119 0
+124C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\tsconfig.json133203240615920422 0
+122C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\SECURITY.md133203240616477185 0
+122C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\tslint.json133203240615940477 0
+127C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\UPGRADE_GUIDE.md133203240616527321 0
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\adapters133203240616270276 1
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\axios.js133203240614498767 0
+121C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\cancel133203240615365717 1
+119C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\core133203240616310470 1
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\defaults133203240615716038 1
+122C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers133203240616367305 1
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\utils.js133203240615775942 0
+132C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\spread.js133203240615616057 0
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\bind.js133203240614731427 0
+134C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\buildURL.js133203240614815994 0
+137C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\combineURLs.js133203240614916274 0
+133C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\cookies.js133203240614946209 0
+139C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\isAbsoluteURL.js133203240615331344 0
+138C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\isAxiosError.js133203240615354563 0
+141C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\isURLSameOrigin.js133203240615408539 0
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\null.js133203240615499161 0
+138C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\parseHeaders.js133203240615519091 0
+139C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\parseProtocol.js133203240615558961 0
+132C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\README.md133203240616377324 0
+136C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\toFormData.js133203240615666049 0
+135C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\helpers\validator.js133203240615816024 0
+126C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\env\data.js133203240614996286 0
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\README.md133203240613841420 0
+128C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\env\README.md133203240616357326 0
+127C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\defaults\env133203240615099379 1
+132C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\defaults\index.js133203240615275401 0
+139C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\defaults\transitional.js133203240615725956 0
+128C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\core\Axios.js133203240614558775 0
+133C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\core\AxiosError.js133203240614691068 0
+122C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\bench.js133203240613951411 0
+136C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\core\buildFullPath.js133203240614762397 0
+138C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\core\dispatchRequest.js133203240615056148 0
+141C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\core\InterceptorManager.js133203240615305276 0
+134C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\core\mergeConfig.js133203240615439100 0
+129C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\core\README.md133203240616330489 0
+136C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\core\transformData.js133203240615705938 0
+136C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\cancel\CancelToken.js133203240614886170 0
+133C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\cancel\isCancel.js133203240615375980 0
+131C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\adapters\http.js133203240615191577 0
+133C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\adapters\README.md133203240616280274 0
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\lib\adapters\xhr.js133203240615855936 0
+124C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\dist\axios.js133203240614418453 0
+125C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\dist\axios.map133203240616060245 0
+128C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\dist\axios.min.js133203240614644227 0
+129C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\axios\dist\axios.min.map133203240616180275 0
+122C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\index.js133203240614095800 0
+117C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib133203240614846255 1
+125C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\parallel.js133203240614252284 0
+123C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\serial.js133203240614358068 0
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\serialOrdered.js133203240614418453 0
+126C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib\abort.js133203240614498767 0
+126C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib\async.js133203240614659318 0
+126C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib\defer.js133203240614538786 0
+128C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib\iterate.js133203240614568745 0
+138C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib\readable_asynckit.js133203240614604210 0
+138C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib\readable_parallel.js133203240614866203 0
+144C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib\readable_serial_ordered.js133203240614741389 0
+126C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib\state.js133203240614762397 0
+130C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\node_modules\asynckit\lib\streamify.js133203240614792624 0
+113C:\Users\beard\OneDrive\Documents\GitHub\typescript-the-complete-developers-guide-exercises\.vscode\settings.json133205119798139200 0
