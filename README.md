@@ -46,3 +46,31 @@ Interfaces in typescript are used to define the structure of an object. The goal
 npx parcel index.html
 ```
 Creates a server running at http://localhost:1234. Load this in the browser to see the application. 
+
+## Sorting Project
+- This code will be able to sort input data in a predictable way - e.g. alphabetical or numerical.
+- I have created a build directory (for .js files) and an src directory (for .ts files). 
+
+### To Compile
+```
+tsc index.ts
+tsc --init
+```
+The generated tsconfig.json file was edited for outDir (holds the compiled code) and rootDir (holds the source code). Following this, the code can simply be run using:
+```
+tsc -w
+```
+This continuously recompiles the code when changes are made. 
+### To Run
+In a separate terminal: 
+```
+node build/index.js
+```
+```
+npm init -y
+npm install nodemon concurrently
+```
+The package.json file is edited so that the code can be compiled and run concurrently using:
+```
+npm start
+```
