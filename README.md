@@ -91,3 +91,13 @@ The package.json file is edited so that the code can be compiled and run concurr
 ```
 npm start
 ```
+
+## Match of the Day Project
+- Data from a spreadsheet will be taken in in CSV format. It will then be loaded into a NodeJS application, parsed, statistically analysed and reported. 
+
+### Set Up
+```
+npm init -y
+tsc --init
+npm install nodemon concurrently 
+```
