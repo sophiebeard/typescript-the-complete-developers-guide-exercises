@@ -50,6 +50,23 @@ Creates a server running at http://localhost:1234. Load this in the browser to s
 ## Sorting Project
 - This code will be able to sort input data in a predictable way - e.g. alphabetical or numerical.
 - I have created a build directory (for .js files) and an src directory (for .ts files). 
+- The application will use the Bubble sort method in order to sort input arrays. 
+- Type guard for a primitive value (number, boolean, symbol, string), use
+```
+typeof
+```
+- Type guard for every other type of value, use
+```
+instanceof
+```
+- Interfaces
+  - Sets up a contract between different classes.
+  - Use when we have very different objects that we want to work together. 
+  - Promotes loose coupling.
+- Inheritance/Abstract classes
+  - Sets up a contract between different classes. 
+  - Use when we are trying to build up a definition of an object. 
+  - Strongly couples classes together. 
 
 ### To Compile
 ```
