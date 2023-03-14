@@ -115,3 +115,8 @@ npm install @types/node
 ```
 npm start
 ```
+
+## Full Stack Web Application Project
+- Fetch some data.
+- Render the content on the screen.
+- Handle user events. 
