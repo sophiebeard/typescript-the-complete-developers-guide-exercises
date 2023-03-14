@@ -94,10 +94,24 @@ npm start
 
 ## Match of the Day Project
 - Data from a spreadsheet will be taken in in CSV format. It will then be loaded into a NodeJS application, parsed, statistically analysed and reported. 
+- Load the data: Documentation was followed from 'https://nodejs.org/api/'.
+- enum (short for enumeration) is an object that stores some very closely related values. These values are always either numbers or strings. 
+- parseDate: takes a string with a date format, and returns a Date object. 
+- Generics:
+  - Like function arguments, but for types in class/function definitions. 
+  - Allows us to define the type of a property/argument/return value at a future point. 
+  - Used heavily when writing reusable code. 
+- "Favour object composition over class inheritance" - Design Patterns. 
 
 ### Set Up
 ```
 npm init -y
 tsc --init
 npm install nodemon concurrently 
+npm install @types/node
+```
+
+### To Run
+```
+npm start
 ```
