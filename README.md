@@ -120,3 +120,11 @@ npm start
 - Fetch some data.
 - Render the content on the screen.
 - Handle user events. 
+
+### Set Up
+```
+npm install -g parcel-bundler
+```
+
+### To Run
+parcel index.html
