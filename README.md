@@ -124,7 +124,21 @@ npm start
 ### Set Up
 ```
 npm install -g parcel-bundler
+npm install -g json-server
+npm install axios
 ```
 
 ### To Run
+Back end:
+```
 parcel index.html
+```
+Front end:
+```
+json-server -w db.json
+```
+Or:
+```
+npm run start:db
+npm run start:parcel
+```
